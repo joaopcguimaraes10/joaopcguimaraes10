@@ -1,16 +1,25 @@
-## Hi there 👋
+<div>
+    <a target='_blank' href="https://www.linkedin.com/in/jpcguimaraes/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**joaopcguimaraes10/joaopcguimaraes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Informações
 
-Here are some ideas to get you started:
+* **Nome**: João Paulo Carvalho Guimarães
+* **Idade**: 30
+* **Vivendo em**: São Paulo - SP, Brazil
+* **Conhecimentos**: Infraestrutura - Redes - Azure - Windows - Linux
+* **Graduação**: Centro Universitário Senac - Tecnologia em Redes de Computadores
+* **Pós Graduação**: Centro Universitário Senac - Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interesse
+                                                                                                            
+* **Cloud Computing** - Azure, AWS, Ambientes hibridos e Migrações
+* **Automatização** - Explorando ferramentas PowerShell, Shell(Bash) entre outras opcões
+* **Monitoramento** - Dashboards de monitaração da infraestrutura - Zabbix
+                            
+                                                                               
+
+
+
