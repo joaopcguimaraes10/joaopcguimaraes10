@@ -7,7 +7,7 @@
 ## Informações
 
 * **Nome**: João Paulo Carvalho Guimarães
-* **Idade**: 30
+* **Idade**: 32
 * **Vivendo em**: São Paulo - SP, Brazil
 * **Conhecimentos**: Infraestrutura - Redes - Azure - Windows - Linux
 * **Graduação**: Centro Universitário Senac - Tecnologia em Redes de Computadores
